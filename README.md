@@ -74,7 +74,7 @@ ollama pull llama3.2:3b
 ### 3. Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/assistente-ollama.git
+git clone https://github.com/LeandroSRGL/assistente-ollama.git
 cd assistente-ollama
 ```
 
